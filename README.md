@@ -2,6 +2,7 @@
 # Tutorial de Git + GitHub
 
 --Primera vez
+
 1-Creo la primera carpeta contenedora de repositorio.
 
 2-Ingreso a la carpeta por consola.
